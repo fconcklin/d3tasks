@@ -1,0 +1,9 @@
+#+title: Division 3 Tasks 
+#+author: Fred Concklin
+
+* TODO Build Jekyll Site for Division 3 Documentation Repository 
+* TODO Build Vagrant Image for MongoDB virtual image 
+* TODO Create mongo config script for db setup 
+* TODO Create repository for REST API 
+* TODO Create REST API vagrant image 
+* TODO Create vagrant network for db vm and rest api vm 
